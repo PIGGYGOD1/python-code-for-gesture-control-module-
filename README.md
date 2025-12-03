@@ -285,3 +285,5 @@ Add GUI interface
 Add voice feedback (“Thumbs up detected”)
 
 Add more gesture types
+
+# if you find any error in this , please take help of ai such as chatgpt,gemini
